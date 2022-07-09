@@ -19,8 +19,9 @@ scikit-learn <br/>
 
 # Algorithms
 
-Decision Tree
-K-Nearest Neighbours
-Logistic Regression
-Random Forest
-XGBoost
+Decision Tree <br/>
+K-Nearest Neighbours <br/>
+Logistic Regression <br/>
+Support Vector Machine <br/>
+Random Forest <br/>
+XGBoost <br/>
