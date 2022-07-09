@@ -12,10 +12,10 @@ Download link: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 # Libraries
 
-pandas
-matplotlib
-seaborn
-scikit-learn
+pandas <br/>
+matplotlib <br/>
+seaborn <br/>
+scikit-learn <br/>
 
 # Algorithms
 
